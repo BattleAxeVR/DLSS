@@ -275,4 +275,5 @@ typedef NVSDK_NGX_Result(NVSDK_CONV* PFN_NVSDK_NGX_DLSSG_EstimateVRAMCallback)(u
 //!   if FG is off, for example, when rendering a menu with FG temporarily disabled.
 #define NVSDK_NGX_DLSSG_Parameter_BackbufferFrameID            "DLSSG.BackbufferFrameID"
 
+
 #endif // NVSDK_NGX_DEFS_DLSSG_H
